@@ -1,7 +1,5 @@
 ---
 timeline:
-  - '9:00 AM'
-  - '9:30 AM'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -16,15 +14,37 @@ timeline:
   - '3:30 PM'
   - '4:00 PM'
   - '4:30 PM'
+  - '5:00 PM'
+  - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Office Hours
+        start: 2:00 PM
+        end: 4:00 PM
+        location: Warren 111
   - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 3:00 PM
+        end: 5:00 PM
+        location: Warren 101B
   - name: Wednesday
     events:
       - name: Lecture
         start: 2:00 PM
         end: 4:00 PM
-        location: 120 Latimer
+        location: Latimer 120
   - name: Thursday
+    events:
+      - name: Office Hours
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Zoom (link on Ed)
   - name: Friday
+    events:
+      - name: Office Hours
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Zoom (link on Ed)
 ---
