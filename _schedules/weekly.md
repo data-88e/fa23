@@ -22,13 +22,13 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
-        location: Warren 111
+        location: Warren 101B-A
   - name: Tuesday
     events:
       - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
-        location: Warren 101B
+        location: Warren 101B-A
   - name: Wednesday
     events:
       - name: Lecture
