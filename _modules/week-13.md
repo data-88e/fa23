@@ -4,5 +4,8 @@ title: Week 13
 
 Nov 15
 : **13**{: .label .label-gray} Environmental Economics
+: [Slides](https://docs.google.com/presentation/d/1SxxzO6Vl6QYJHS_hpBU82A5f2-PGdtTAxKEs8yjd3jQ/edit?usp=sharing) &#8226; [Video]())
+: [EnvironmentalKuznets](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=retro%2Ftree%2Ffa22-student%2Flec%2Flec13%2FKuznetsHypothesis.ipynb) &#8226;[Rosling-TimePlots](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=retro%2Ftree%2Ffa22-student%2Flec%2Flec13%2FRoslingPlots.ipynb) &#8226; [MAC Building](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa22-student&branch=main&urlpath=retro%2Ftree%2Ffa22-student%2Flec%2Flec13%2FConstructingMAC.ipynb);
+
 : *Reading*: [12.0](https://data-88e.github.io/textbook/content/12-environmental/index.html), [12.1](https://data-88e.github.io/textbook/content/12-environmental/textbook1.html), [12.2](https://data-88e.github.io/textbook/content/12-environmental/KuznetsHypothesis-Copy1.html)
 : **Lab**{: .label .label-green} Lab 11
